@@ -1,0 +1,57 @@
+Single thread - logic, coherence
+
+intro -> requirement(follow intro) -> implement(follow requrement)
+
+know the company, stuc, culture, -> requirement
+
+
+
+outcome -> add problem found in the company then comes out the prototype  ***
+
+read section above first and then start the new section
+
+write some introduction of the section
+
+base on the requirement, we propose the following prototype.....
+(wirte some paragraph or sentences)
+
+objective -- optimise what functions? do not just mention the prototype
+
+objective
+in prototype we will gather the information. understand the culture of the company
+indentfy the problems in their IT system. identify requirements of the IT system. Implement a propose improved/enhanced CRM system that will satisfy their requirements
+average utilization 90% of the staff will use the system
+S.M.A.R.T. 
+
+methodology -- add some (for gathering infor) put before senario. In the process take as a part of the company we find out the following problems
+
+problems we found( is no the user requirement part)
+
+spec <- user requirement( the system to propose have what. the  requirement, fn that should be done, in the system)
+
+to better illustrate the function, here will list fn in the system. ...
+
+(because of the culture problem)
+
+
+in the interface should have # of buttons such as ...
+
+
+
+4.4 key problem and solution
+
+rewirte all with more techncial problems
+
+culture problem ( staff are unwilling to use)
+
+insutall
+
+5.2 evaluation ( no need to write too much) 
+
+propose what test case to do test...
+
+requiement tesing (table
+
+user testing... give user to use... deliver to user to do test. beta trail
+
+provide traing...
