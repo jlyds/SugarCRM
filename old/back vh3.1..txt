@@ -1,0 +1,1 @@
+However, if input some data in the system directly, each operator will type the words in their own style
